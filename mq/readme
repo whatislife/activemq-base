@@ -1,0 +1,12 @@
+本地安装
+https://blog.csdn.net/mr_haixin/article/details/80418204
+本地启动
+cd ../apache-activemq-5.11.1/bin
+访问
+http://localhost:8161  admin admin
+
+jdk修改默认版本
+https://www.cnblogs.com/Hxinguan/p/6132446.html
+
+MQ详细文章
+http://www.uml.org.cn/zjjs/201802111.asp
